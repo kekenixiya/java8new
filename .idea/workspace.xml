@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0e37059a-e49e-41da-adc1-9cbfa7afa1c4" name="Default" comment="" />
+    <list default="true" id="0e37059a-e49e-41da-adc1-9cbfa7afa1c4" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/file/Java8 新特性.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/.gitignore" beforeDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -12,64 +17,43 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="MyFunction.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/cn/com/keke/day01/exer/MyFunction.java">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="TestLambda1.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/cn/com/keke/day01/java8/TestLambda1.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="95">
-              <caret line="5" column="18" selection-start-line="5" selection-start-column="18" selection-end-line="5" selection-end-column="18" />
+            <state relative-caret-position="218">
+              <caret line="144" column="25" selection-start-line="144" selection-start-column="17" selection-end-line="144" selection-end-column="25" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="TestLambda.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/cn/com/keke/day01/exer/TestLambda.java">
+      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="288">
-              <caret line="48" column="22" selection-start-line="48" selection-start-column="22" selection-end-line="48" selection-end-column="22" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#1158#1159#0" expanded="true" />
-                <element signature="e#1188#1189#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="152">
+              <caret line="8" column="5" lean-forward="true" selection-start-line="8" selection-start-column="5" selection-end-line="8" selection-end-column="5" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="TestStreamAPI2.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/cn/com/keke/day02/java8/TestStreamAPI2.java">
+      <file leaf-file-name="MyPredicate.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/cn/com/keke/day01/java8/MyPredicate.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1729">
-              <caret line="100" column="57" selection-start-line="100" selection-start-column="57" selection-end-line="100" selection-end-column="57" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="TestStreamAPI3.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/cn/com/keke/day02/java8/TestStreamAPI3.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="98">
-              <caret line="137" column="25" selection-start-line="137" selection-start-column="25" selection-end-line="137" selection-end-column="25" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="MyFunction2.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/cn/com/keke/day01/exer/MyFunction2.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="38">
-              <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
+            <state relative-caret-position="57">
+              <caret line="3" column="17" selection-start-line="3" selection-start-column="17" selection-end-line="3" selection-end-column="17" />
             </state>
           </provider>
         </entry>
       </file>
     </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>filterEmployeeAge</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -77,9 +61,12 @@
         <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/src/main/java/cn/com/keke/day02/java8/TestStreamAPI1.java" />
         <option value="$PROJECT_DIR$/src/main/java/cn/com/keke/day02/exer/TestStreamAPI.java" />
-        <option value="$PROJECT_DIR$/src/main/java/cn/com/keke/day01/exer/TestLambda.java" />
         <option value="$PROJECT_DIR$/src/main/java/cn/com/keke/day02/java8/TestStreamAPI2.java" />
         <option value="$PROJECT_DIR$/src/main/java/cn/com/keke/day02/java8/TestStreamAPI3.java" />
+        <option value="$PROJECT_DIR$/src/main/java/cn/com/keke/day01/exer/TestLambda.java" />
+        <option value="$PROJECT_DIR$/src/main/java/cn/com/keke/day01/java8/TestLambda1.java" />
+        <option value="$PROJECT_DIR$/src/main/java/cn/com/keke/day01/java8/TestMethodRef.java" />
+        <option value="$PROJECT_DIR$/src/main/java/cn/com/keke/day01/java8/Employee.java" />
       </list>
     </option>
   </component>
@@ -111,17 +98,19 @@
   <component name="NodePackageJsonFileManager">
     <packageJsonPaths />
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="239" />
-    <option name="y" value="53" />
-    <option name="width" value="1380" />
-    <option name="height" value="728" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="42" />
+    <option name="y" value="110" />
+    <option name="width" value="1272" />
+    <option name="height" value="735" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="AndroidView" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -132,6 +121,11 @@
             <path>
               <item name="java8new" type="b2602c69:ProjectViewProjectNode" />
               <item name="java8new" type="462c0819:PsiDirectoryNode" />
+              <item name="file" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="java8new" type="b2602c69:ProjectViewProjectNode" />
+              <item name="java8new" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -139,50 +133,6 @@
               <item name="java8new" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="java8new" type="b2602c69:ProjectViewProjectNode" />
-              <item name="java8new" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="java8new" type="b2602c69:ProjectViewProjectNode" />
-              <item name="java8new" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="keke" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="java8new" type="b2602c69:ProjectViewProjectNode" />
-              <item name="java8new" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="keke" type="462c0819:PsiDirectoryNode" />
-              <item name="day01" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="java8new" type="b2602c69:ProjectViewProjectNode" />
-              <item name="java8new" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="keke" type="462c0819:PsiDirectoryNode" />
-              <item name="day01" type="462c0819:PsiDirectoryNode" />
-              <item name="exer" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="java8new" type="b2602c69:ProjectViewProjectNode" />
-              <item name="java8new" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="keke" type="462c0819:PsiDirectoryNode" />
-              <item name="day01" type="462c0819:PsiDirectoryNode" />
-              <item name="java8" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="java8new" type="b2602c69:ProjectViewProjectNode" />
@@ -192,13 +142,17 @@
             </path>
             <path>
               <item name="java8new" type="b2602c69:ProjectViewProjectNode" />
+              <item name="java8new" type="462c0819:PsiDirectoryNode" />
+              <item name="target" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="java8new" type="b2602c69:ProjectViewProjectNode" />
               <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="AndroidView" />
       <pane id="Scope" />
       <pane id="PackagesPane" />
     </panes>
@@ -206,7 +160,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="D:/Java_JDK/Java/jdk1.8.0_181/bin/jvisualvm.exe" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Modules" />
@@ -231,22 +185,45 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.TestLambda.test2">
+  <component name="RunManager" selected="JUnit.TestLambda1.test7">
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
     </configuration>
-    <configuration name="TestLambda.test1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="TestLambda1.test7" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="java8new" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="cn.com.keke.day01.exer.*" />
+          <option name="PATTERN" value="cn.com.keke.day01.java8.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="cn.com.keke.day01.exer" />
-      <option name="MAIN_CLASS_NAME" value="cn.com.keke.day01.exer.TestLambda" />
+      <option name="PACKAGE_NAME" value="cn.com.keke.day01.java8" />
+      <option name="MAIN_CLASS_NAME" value="cn.com.keke.day01.java8.TestLambda1" />
+      <option name="METHOD_NAME" value="test7" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration name="TestStreamAPI.test1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="java8new" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cn.com.keke.day02.exer.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="cn.com.keke.day02.exer" />
+      <option name="MAIN_CLASS_NAME" value="cn.com.keke.day02.exer.TestStreamAPI" />
       <option name="METHOD_NAME" value="test1" />
       <option name="TEST_OBJECT" value="method" />
       <option name="VM_PARAMETERS" value="-ea" />
@@ -258,18 +235,64 @@
       </option>
       <patterns />
     </configuration>
-    <configuration name="TestLambda.test2" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="TestStreamAPI.test2" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="java8new" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="cn.com.keke.day01.exer.*" />
+          <option name="PATTERN" value="cn.com.keke.day02.exer.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="cn.com.keke.day01.exer" />
-      <option name="MAIN_CLASS_NAME" value="cn.com.keke.day01.exer.TestLambda" />
+      <option name="PACKAGE_NAME" value="cn.com.keke.day02.exer" />
+      <option name="MAIN_CLASS_NAME" value="cn.com.keke.day02.exer.TestStreamAPI" />
+      <option name="METHOD_NAME" value="test2" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration name="TestTransaction.test1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="java8new" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cn.com.keke.day02.exer.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="cn.com.keke.day02.exer" />
+      <option name="MAIN_CLASS_NAME" value="cn.com.keke.day02.exer.TestTransaction" />
+      <option name="METHOD_NAME" value="test1" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration name="TestTransaction.test2" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="java8new" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cn.com.keke.day02.exer.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="cn.com.keke.day02.exer" />
+      <option name="MAIN_CLASS_NAME" value="cn.com.keke.day02.exer.TestTransaction" />
       <option name="METHOD_NAME" value="test2" />
       <option name="TEST_OBJECT" value="method" />
       <option name="VM_PARAMETERS" value="-ea" />
@@ -320,13 +343,19 @@
       <listeners />
     </configuration>
     <list>
-      <item itemvalue="JUnit.TestLambda.test1" />
-      <item itemvalue="JUnit.TestLambda.test2" />
+      <item itemvalue="JUnit.TestStreamAPI.test1" />
+      <item itemvalue="JUnit.TestStreamAPI.test2" />
+      <item itemvalue="JUnit.TestTransaction.test1" />
+      <item itemvalue="JUnit.TestTransaction.test2" />
+      <item itemvalue="JUnit.TestLambda1.test7" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.TestLambda.test2" />
-        <item itemvalue="JUnit.TestLambda.test1" />
+        <item itemvalue="JUnit.TestLambda1.test7" />
+        <item itemvalue="JUnit.TestTransaction.test2" />
+        <item itemvalue="JUnit.TestTransaction.test1" />
+        <item itemvalue="JUnit.TestStreamAPI.test2" />
+        <item itemvalue="JUnit.TestStreamAPI.test1" />
       </list>
     </recent_temporary>
   </component>
@@ -340,56 +369,85 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1546914620770</updated>
-      <workItem from="1546914626481" duration="1058000" />
+      <workItem from="1546914626481" duration="13039000" />
+      <workItem from="1547023367763" duration="1190000" />
+      <workItem from="1547428304996" duration="1188000" />
+      <workItem from="1548032181518" duration="593000" />
+      <workItem from="1551250858355" duration="1405000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="TestLambda_test1 - 2019.01.08 at 10h 42m 38s.xml">
-      <configuration name="TestLambda.test1" configurationId="JUnit" />
+    <history-entry file="TestStreamaAPI_test2 - 2019.01.08 at 17h 43m 11s.xml">
+      <configuration name="TestStreamaAPI.test2" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="TestLambda_test2 - 2019.01.08 at 10h 44m 24s.xml">
-      <configuration name="TestLambda.test2" configurationId="JUnit" />
+    <history-entry file="TestStreamaAPI_test4 - 2019.01.08 at 17h 43m 53s.xml">
+      <configuration name="TestStreamaAPI.test4" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestStreamaAPI_test5 - 2019.01.08 at 17h 45m 16s.xml">
+      <configuration name="TestStreamaAPI.test5" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestStreamaAPI_test6 - 2019.01.08 at 17h 50m 30s.xml">
+      <configuration name="TestStreamaAPI.test6" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestStreamAPI_test1 - 2019.01.08 at 17h 51m 35s.xml">
+      <configuration name="TestStreamAPI.test1" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestStreamAPI_test2 - 2019.01.08 at 17h 52m 29s.xml">
+      <configuration name="TestStreamAPI.test2" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestTransaction_test1 - 2019.01.08 at 17h 59m 26s.xml">
+      <configuration name="TestTransaction.test1" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestTransaction_test1 - 2019.01.08 at 18h 00m 28s.xml">
+      <configuration name="TestTransaction.test1" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestTransaction_test2 - 2019.01.08 at 18h 00m 41s.xml">
+      <configuration name="TestTransaction.test2" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestLambda1_test7 - 2019.02.27 at 15h 11m 33s.xml">
+      <configuration name="TestLambda1.test7" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1058000" />
+    <option name="totallyTimeSpent" value="17415000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <frame x="42" y="110" width="1272" height="735" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info anchor="right" id="Palette" />
-      <window_info anchor="bottom" id="FindBugs-IDEA" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
-      <window_info anchor="right" id="Maven Projects" weight="0.32980332" />
-      <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
-      <window_info id="Capture Tool" />
-      <window_info id="Designer" />
-      <window_info anchor="right" id="Database" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="bottom" id="FindBugs-IDEA" order="7" />
+      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
+      <window_info anchor="right" id="Maven Projects" order="3" weight="0.32980332" />
+      <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
+      <window_info id="Capture Tool" order="2" />
+      <window_info id="Designer" order="2" />
+      <window_info anchor="right" id="Database" order="3" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info id="UI Designer" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info id="UI Designer" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.49590835" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Messages" weight="0.42973855" />
-      <window_info anchor="right" id="Palette&#9;" />
-      <window_info id="Image Layers" />
-      <window_info anchor="right" id="Capture Analysis" />
-      <window_info anchor="bottom" id="Version Control" show_stripe_button="false" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32843137" />
-      <window_info anchor="bottom" id="Terminal" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24962178" />
-      <window_info anchor="bottom" id="Run with VisualVM" />
-      <window_info anchor="right" id="Theme Preview" />
-      <window_info id="Favorites" side_tool="true" />
-      <window_info anchor="bottom" id="Debug with VisualVM" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="bottom" id="Messages" order="7" weight="0.38625205" />
+      <window_info anchor="right" id="Palette&#9;" order="3" />
+      <window_info id="Image Layers" order="2" />
+      <window_info anchor="right" id="Capture Analysis" order="3" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.18604651" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info anchor="bottom" id="Run with VisualVM" order="7" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.27640265" />
+      <window_info anchor="right" id="Theme Preview" order="3" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Debug with VisualVM" order="7" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="right" x="0" y="0" width="295" height="544" id="Documentation" order="3" side_tool="true" weight="0.32980332" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -398,7 +456,136 @@
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="java8 新特性" />
+    <option name="LAST_COMMIT_MESSAGE" value="java8 新特性" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="3" />
+    </breakpoint-manager>
+  </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/main/java/cn/com/keke/day02/exer/TestStreamAPI.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="475">
+          <caret line="30" column="29" selection-start-line="30" selection-start-column="29" selection-end-line="30" selection-end-column="29" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/Java_JDK/Java/jdk1.8.0_181/src.zip!/java/lang/Integer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="28405">
+          <caret line="1560" column="22" selection-start-line="1560" selection-start-column="22" selection-end-line="1560" selection-end-column="22" />
+          <folding>
+            <element signature="e#47036#47037#0" expanded="true" />
+            <element signature="e#47092#47093#0" expanded="true" />
+            <element signature="e#59796#59797#0" expanded="true" />
+            <element signature="e#59824#59825#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/cn/com/keke/day02/exer/TestTransaction.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="551">
+          <caret line="36" column="54" selection-start-line="36" selection-start-column="50" selection-end-line="36" selection-end-column="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/cn/com/keke/day02/exer/TestStreamAPI.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="475">
+          <caret line="30" column="29" selection-start-line="30" selection-start-column="29" selection-end-line="30" selection-end-column="29" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/Java_JDK/Java/jdk1.8.0_181/src.zip!/java/lang/Integer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="29640">
+          <caret line="1560" column="22" selection-start-line="1560" selection-start-column="22" selection-end-line="1560" selection-end-column="22" />
+          <folding>
+            <element signature="e#47036#47037#0" expanded="true" />
+            <element signature="e#47092#47093#0" expanded="true" />
+            <element signature="e#59796#59797#0" expanded="true" />
+            <element signature="e#59824#59825#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/cn/com/keke/day02/exer/TestTransaction.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="551">
+          <caret line="36" column="54" selection-start-line="36" selection-start-column="50" selection-end-line="36" selection-end-column="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/cn/com/keke/day02/exer/TestStreamAPI.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="475">
+          <caret line="30" column="29" selection-start-line="30" selection-start-column="29" selection-end-line="30" selection-end-column="29" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/Java_JDK/Java/jdk1.8.0_181/src.zip!/java/lang/Integer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="28367">
+          <caret line="1560" column="22" selection-start-line="1560" selection-start-column="22" selection-end-line="1560" selection-end-column="22" />
+          <folding>
+            <element signature="e#47036#47037#0" expanded="true" />
+            <element signature="e#47092#47093#0" expanded="true" />
+            <element signature="e#59796#59797#0" expanded="true" />
+            <element signature="e#59824#59825#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/cn/com/keke/day02/exer/TestTransaction.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="551">
+          <caret line="36" column="54" selection-start-line="36" selection-start-column="50" selection-end-line="36" selection-end-column="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/cn/com/keke/day02/exer/TestStreamAPI.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="475">
+          <caret line="30" column="29" selection-start-line="30" selection-start-column="29" selection-end-line="30" selection-end-column="29" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/Java_JDK/Java/jdk1.8.0_181/src.zip!/java/lang/Integer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="29640">
+          <caret line="1560" column="22" selection-start-line="1560" selection-start-column="22" selection-end-line="1560" selection-end-column="22" />
+          <folding>
+            <element signature="e#47036#47037#0" expanded="true" />
+            <element signature="e#47092#47093#0" expanded="true" />
+            <element signature="e#59796#59797#0" expanded="true" />
+            <element signature="e#59824#59825#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/cn/com/keke/day02/exer/TestTransaction.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="589">
+          <caret line="38" column="50" lean-forward="true" selection-start-line="38" selection-start-column="50" selection-end-line="38" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/cn/com/keke/day02/java8/TestForkJoin.java">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -417,9 +604,6 @@
     <entry file="file://$PROJECT_DIR$/src/main/java/cn/com/keke/day02/java8/TestOptional.java">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/cn/com/keke/day01/java8/FilterEmployeeForAge.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
       <provider selected="true" editor-type-id="text-editor">
@@ -432,23 +616,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-304">
           <caret line="38" column="7" selection-start-line="38" selection-start-column="7" selection-end-line="38" selection-end-column="7" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/cn/com/keke/day02/exer/TestTransaction.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="76">
-          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/cn/com/keke/day02/exer/TestStreamAPI.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="57">
-          <caret line="3" column="22" selection-start-line="3" selection-start-column="22" selection-end-line="3" selection-end-column="22" />
         </state>
       </provider>
     </entry>
@@ -456,13 +623,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="114">
           <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/.gitignore">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="133">
-          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
         </state>
       </provider>
     </entry>
@@ -480,13 +640,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/cn/com/keke/day01/exer/MyFunction2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="38">
-          <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/cn/com/keke/day02/java8/Employee.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1881">
@@ -494,23 +647,152 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/cn/com/keke/day02/java8/TestStreamAPI3.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="98">
+          <caret line="137" column="25" selection-start-line="137" selection-start-column="25" selection-end-line="137" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/cn/com/keke/day01/java8/MyFun.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="57">
+          <caret line="3" column="17" selection-start-line="3" selection-start-column="17" selection-end-line="3" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/Java_JDK/Java/jdk1.8.0_181/src.zip!/java/io/PrintStream.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="194">
+          <caret line="819" column="16" selection-start-line="819" selection-start-column="16" selection-end-line="819" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/Java/repository/junit/junit/4.12/junit-4.12.jar!/org/junit/runners/model/FrameworkMethod.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-534">
+          <caret line="49" selection-start-line="49" selection-end-line="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/Java_JDK/Java/jdk1.8.0_181/src.zip!/java/util/function/Consumer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="321">
+          <caret line="62" column="52" selection-start-line="62" selection-start-column="52" selection-end-line="62" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/Java_JDK/Java/jdk1.8.0_181/src.zip!/java/lang/Object.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="194">
+          <caret line="147" column="19" selection-start-line="147" selection-start-column="19" selection-end-line="147" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/cn/com/keke/day02/java8/TestStreamAPI2.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1729">
-          <caret line="100" column="57" selection-start-line="100" selection-start-column="57" selection-end-line="100" selection-end-column="57" />
+        <state relative-caret-position="176">
+          <caret line="62" column="20" selection-start-line="62" selection-start-column="20" selection-end-line="62" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/cn/com/keke/day01/java8/TestLambda2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="401">
+          <caret line="106" column="28" selection-start-line="106" selection-start-column="19" selection-end-line="106" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/cn/com/keke/day01/java8/TestLambda3.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="387">
+          <caret line="98" column="24" selection-start-line="98" selection-start-column="19" selection-end-line="98" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/Java_JDK/Java/jdk1.8.0_181/src.zip!/java/util/Comparator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-441">
+          <caret line="108" column="17" selection-start-line="108" selection-start-column="17" selection-end-line="108" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/Java_JDK/Java/jdk1.8.0_181/src.zip!/java/util/function/BiPredicate.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="186">
+          <caret line="52" column="12" selection-start-line="52" selection-start-column="12" selection-end-line="52" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/Java_JDK/Java/jdk1.8.0_181/src.zip!/java/lang/System.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="186">
+          <caret line="58" column="19" selection-start-line="58" selection-start-column="19" selection-end-line="58" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/cn/com/keke/day01/java8/TestMethodRef.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="133" column="34" selection-start-line="133" selection-start-column="32" selection-end-line="133" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/cn/com/keke/day01/java8/TestStreamaAPI.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="109" column="24" lean-forward="true" selection-start-line="109" selection-start-column="24" selection-end-line="109" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/Java_JDK/Java/jdk1.8.0_181/src.zip!/java/lang/Integer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="28405">
+          <caret line="1560" column="22" selection-start-line="1560" selection-start-column="22" selection-end-line="1560" selection-end-column="22" />
+          <folding>
+            <element signature="e#47036#47037#0" expanded="true" />
+            <element signature="e#47092#47093#0" expanded="true" />
+            <element signature="e#59796#59797#0" expanded="true" />
+            <element signature="e#59824#59825#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/cn/com/keke/day02/exer/TestStreamAPI.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="475">
+          <caret line="30" column="29" selection-start-line="30" selection-start-column="29" selection-end-line="30" selection-end-column="29" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/cn/com/keke/day02/java8/TestStreamAPI3.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/cn/com/keke/day02/exer/TestTransaction.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="98">
-          <caret line="137" column="25" selection-start-line="137" selection-start-column="25" selection-end-line="137" selection-end-column="25" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="323">
+          <caret line="36" column="54" selection-start-line="36" selection-start-column="50" selection-end-line="36" selection-end-column="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/cn/com/keke/day01/exer/TestLambda.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="387">
+          <caret line="60" column="20" lean-forward="true" selection-start-line="60" selection-start-column="20" selection-end-line="60" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/cn/com/keke/day01/java8/Employee.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="513">
+          <caret line="60" column="18" selection-start-line="60" selection-start-column="18" selection-end-line="60" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/cn/com/keke/day01/exer/MyFunction2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
         </state>
       </provider>
     </entry>
@@ -521,15 +803,49 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/cn/com/keke/day01/exer/TestLambda.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/cn/com/keke/day01/java8/FilterEmployeeForAge.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="288">
-          <caret line="48" column="22" selection-start-line="48" selection-start-column="22" selection-end-line="48" selection-end-column="22" />
+        <state relative-caret-position="38">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
           <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#1158#1159#0" expanded="true" />
-            <element signature="e#1188#1189#0" expanded="true" />
+            <element signature="e#147#148#0" expanded="true" />
+            <element signature="e#177#178#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/cn/com/keke/day01/java8/FilterEmployeeForSalary.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/cn/com/keke/day01/java8/MyPredicate.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="57">
+          <caret line="3" column="17" selection-start-line="3" selection-start-column="17" selection-end-line="3" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-95">
+          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/cn/com/keke/day01/java8/TestLambda1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="218">
+          <caret line="144" column="25" selection-start-line="144" selection-start-column="17" selection-end-line="144" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="8" column="5" lean-forward="true" selection-start-line="8" selection-start-column="5" selection-end-line="8" selection-end-column="5" />
         </state>
       </provider>
     </entry>
